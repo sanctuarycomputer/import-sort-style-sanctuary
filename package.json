@@ -1,0 +1,8 @@
+{
+  "name": "import-sort-style-sanctuary",
+  "version": "1.0.0",
+  "description": "Sanctuary Computer's Import Sort Style",
+  "main": "index.js",
+  "author": "Sanctuary Computer",
+  "license": "MIT"
+}
